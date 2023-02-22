@@ -106,8 +106,8 @@
   --server-container: calc(var(--server-size) + 20px);
 
   /* Using any of the below plugins? Change the 0 to a 1 */
-  --channel-tabs-enabled: 0;
-  --channel-tabs-tabBar-enabled: 0;
+  --channel-tabs-enabled: 1;
+  --channel-tabs-tabBar-enabled: 1;
   --channel-tabs-favBar-enabled: 0;
 
   /* Debug; please do not touch */
