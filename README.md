@@ -1,7 +1,8 @@
 # bd-edited-themes
  
- ##List of Themes I currently have in my own BD.
- ###Themes are located in `Themes`
+ ## List of Themes I currently have in my own BD.
+
+ ### Themes are located in `Themes`
 
  Edited:
  - Chillax (Main Use)
