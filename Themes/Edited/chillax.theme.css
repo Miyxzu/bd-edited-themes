@@ -2,7 +2,7 @@
  * @name Chillax
  * @author Chillax Squad
  * @authorLink https://github.com/warrayquipsome/Chillax#author
- * @version 0.6
+ * @version 0.8
  * @invite DrfX6286kF
  * @description stress doesn't really goes with your fit, try out chillax you might not regret it.
  * @source https://github.com/warrayquipsome/Chillax
@@ -31,6 +31,7 @@
 @import url('https://nyri4.github.io/Discolored/main.css');
 @import url("https://warrayquipsome.github.io/Chillax/Addons/IconPackEdited.css");
 @import url("https://warrayquipsome.github.io/Chillax/Addons/AvatarOnlyMemberList.css");
+@import url("https://warrayquipsome.github.io/Chillax/Addons/FolderRedesign.css");
 
 /*additional addons*/ /*(remove the both * to use)*/
 /*@import url("https://warrayquipsome.github.io/Chillax/Addons/SimpleLessLag.css");*/
@@ -58,8 +59,9 @@
 
 /*roots*/ /*both dark and light*/
 :root {
-  --user-name: "exsu";
+  --user-name: "Exsu";
   --font-name: Poppins;
+  --font-size: 13px;
      
   
 /*glow radial status*/ /*must end in px*/
@@ -81,9 +83,9 @@
 
 
 /*chillax colours rgb*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
---accentcolor:	  rgb(104, 115, 130);	
+  --accentcolor:	  251, 84, 84;	
 /*chillax colours hex*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
-  --accentcolorV2:     #524072;
+  --accentcolorV2:     #fb5454;
      
      
 /*settings modal root*/
@@ -101,7 +103,7 @@
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
-  /* other backgrounds */
+/*Other backgrounds*/
   --freedom-dive-bg: url('https://cdn.discordapp.com/attachments/1034691380875902997/1034691486572351549/Freedom_Dive.jpg?size=4096');
   --words-i-never-said-bg: url('https://cdn.discordapp.com/attachments/1034691380875902997/1034691489147650079/Words_I_Never_Said.jpg?size=4096');
   --rei-sotarks-bg: url('https://cdn.discordapp.com/attachments/1034691380875902997/1034691488497541160/ReI_Sotarks.jpg?size=4096');
